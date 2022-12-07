@@ -1,0 +1,14 @@
+{
+  "name": "calculadora-de-area",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lucassantoswebdeveloper@gmail.com",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "typescript": "^4.9.3"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
